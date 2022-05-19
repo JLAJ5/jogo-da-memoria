@@ -14,7 +14,7 @@
 
 
 ## 💻 Projeto
-Jogo da memoria criado atravez do curso master da DIO
+Jogo da memoria criado atravez do curso master da DIO (https://jogo-da-memoria-fawn.vercel.app/)
 
 ## ✨ Tecnologias
 
