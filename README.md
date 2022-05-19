@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="StatPlayer" src="Screenshot.png">
+  <img alt="#PokemonDay" src="/img/ScreenShot.png">
 </p>
 
 
